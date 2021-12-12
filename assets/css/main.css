@@ -2696,8 +2696,7 @@ input, select, textarea {
 
 	header h2 + p {
 		font-size: 1.25em;
-		margin-top: -0.5em;
-		line-height: 1.5em;
+		margin-top: -0.5em;		line-height: 1.5em;
 	}
 
 	header h3 + p {
@@ -4146,4 +4145,4 @@ input, select, textarea {
 			padding: 3em 1.5em 1em 1.5em ;
 		}
 
-	}
+	}rmr
